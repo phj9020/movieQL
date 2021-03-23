@@ -1,0 +1,19 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "movie API with GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phj9020/movieQL.git"
+  },
+  "author": "Han Jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phj9020/movieQL/issues"
+  },
+  "homepage": "https://github.com/phj9020/movieQL#readme"
+}
