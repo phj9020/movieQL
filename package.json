@@ -19,7 +19,8 @@
   "homepage": "https://github.com/phj9020/movieQL#readme",
   "dependencies": {
     "babel-node": "^0.0.1-security",
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.13.10",
